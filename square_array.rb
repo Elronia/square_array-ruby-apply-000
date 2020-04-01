@@ -2,10 +2,9 @@ def square_array(array)
   new_array = []
     array.each do |element|
         new_array << element ** 2
-        puts "Given array: #{array}"
-        puts "Square array: #{new_array}"
     end
     new_array
+    puts "Square_array"
 end
 
 #def square_array(numbers)
