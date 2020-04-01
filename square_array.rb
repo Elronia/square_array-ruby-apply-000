@@ -8,5 +8,5 @@ end
 
 #def square_array(numbers)
 # # numbers = [1,2,3]
-  array.collect { |e| e ** 2 }
+  #numbers.collect { |e| e ** 2 }
 #end
