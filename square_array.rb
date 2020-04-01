@@ -3,7 +3,7 @@ def square_array(array)
     array.each do |element|
         new_array << element ** 2
     end
-    puts "Square_array"
+    puts "#{Square_array}"
     new_array
 end
 
