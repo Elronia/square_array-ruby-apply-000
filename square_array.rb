@@ -6,7 +6,7 @@
 #    new_array
 #end
 
-def square_array(array)
+def square_array
 #  numbers = [1,2,3]
-  array.collect { |e| e ** 2 }
+  [1,2,3].collect { |e| e ** 2 }
 end
